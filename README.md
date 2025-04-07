@@ -1,4 +1,4 @@
-# AozoraBrowser
+# AozoraMini
 
 - Android の WebView を活用した
 - Coara Browser 基準の軽量マルチタブ方式の Android 4.4風 Web ブラウザです。
