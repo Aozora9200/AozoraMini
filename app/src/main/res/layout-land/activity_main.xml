@@ -72,6 +72,14 @@
             android:background="?android:attr/selectableItemBackground"
             android:contentDescription="検索" />
 
+        <ImageButton
+            android:id="@+id/action_bookmark"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/bookmark"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="ブックマーク" />
+
     </LinearLayout>
 
     <android.support.v4.widget.SwipeRefreshLayout
