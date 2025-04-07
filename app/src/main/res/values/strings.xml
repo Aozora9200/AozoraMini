@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Aozora Mini</string>
-    <string name="version">1.00</string>
-    <string name="build">AZB01C</string>
+    <string name="version">1.01</string>
+    <string name="build">AZB0101</string>
     <string name="cannot_get_image_path">画像のパスを取得できません</string>
     <string name="cannot_load_image">画像を読み込めません</string>
     <string name="convert_ascii_art">アスキーアートに変換</string>
